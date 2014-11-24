@@ -4,6 +4,4 @@ User2 editied
 this is user2
 i edited three lines this time
 fifth line
-
-
-
+a new line from lexbuild1
